@@ -113,8 +113,9 @@
    <text xml:lang="eng">
       <body>
          <div type="poem">
-            <pb facs="tcp:018129_0000_0FA55D0BB1867F50"/>
-            <pb facs="tcp:018129_0001_0FA55D0C70B21850" rendition="simple:additions"/>
+            <pb facs="unknown:018129_0000_0FA55D0BB1867F50"/>
+            <pb facs="unknown:018129_0001_0FA55D0C70B21850"
+                rendition="simple:additions"/>
             <head>NEW YEAR VERSES, Addreſſed to thoſe Gentlemen who have been pleaſed to favour <hi>Francis Wrigley,</hi> News Car<g ref="char:EOLhyphen"/>rier, with their Cuſtom. <hi>JANUARY</hi> 1, 1783.</head>
             <lg>
                <l>
